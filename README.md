@@ -100,7 +100,6 @@ Find all binary strings that can be formed from given wildcard pattern http://ww
 
 ## Binary
 
-Bit Hacks — Part 2 (Playing with k’th bit) http://www.techiedelight.com/bit-hacks-part-2-playing-kth-bit/
 Bit Hacks — Part 3 (Playing with rightmost set bit of a number) http://www.techiedelight.com/bit-hacks-part-3-playing-rightmost-set-bit-number/
 Bit Hacks — Part 4 (Playing with letters of English alphabet) http://www.techiedelight.com/bit-hacks-part-4-playing-letters-english-alphabet/
 Bit Hacks — Part 5 (Find absolute value of an integer without branching) http://www.techiedelight.com/bit-hacks-part-5-find-absolute-value-integer-without-branching/
@@ -555,6 +554,7 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/
 ## Binary
 
 1. Bit Hacks — Part 1 (Basic) <http://www.techiedelight.com/bit-hacks-part-1-basic/> - `binary1`
+1. Bit Hacks — Part 2 (Playing with k’th bit) <http://www.techiedelight.com/bit-hacks-part-2-playing-kth-bit/> - `binary2`
 
 ## Matrix
 
