@@ -554,7 +554,7 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/
 
 ## Binary
 
-Bit Hacks — Part 1 (Basic) <http://www.techiedelight.com/bit-hacks-part-1-basic/> - `binary1`
+1. Bit Hacks — Part 1 (Basic) <http://www.techiedelight.com/bit-hacks-part-1-basic/> - `binary1`
 
 ## Matrix
 
