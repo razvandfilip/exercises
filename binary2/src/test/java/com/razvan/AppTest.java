@@ -39,6 +39,6 @@ public class AppTest {
     @Test
     public void shouldToggleBit2() {
         Binary binary = new Binary(20);
-        assertThat(binary.toggleBit(2), is(23));
+        assertThat(binary.toggleBit(2), is(22));
     }
 }
