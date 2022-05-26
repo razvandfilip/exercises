@@ -11,4 +11,4 @@ jobs:
         with:
           java-version: '11'
           distribution: 'temurin'
-      - run: find . -maxdepth 2 -type f -name pom.xml -exec bash -c "mvn -B -f '{}' clean test" \;
+      - run: mvn -B -f pom.xml -T 4C clean test
