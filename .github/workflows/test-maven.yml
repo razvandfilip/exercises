@@ -11,4 +11,4 @@ jobs:
         with:
           java-version: '11'
           distribution: 'temurin'
-      - run: mvn -B -f pom.xml clean test
+      - run: mvn -B -f pom.xml -T 2C clean test
