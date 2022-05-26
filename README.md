@@ -534,7 +534,6 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/
 
 # In Progress
 
-1. Bit Hacks — Part 2 (Playing with k’th bit) <http://www.techiedelight.com/bit-hacks-part-2-playing-kth-bit/> - `binary2`
 
 # Done
 
@@ -555,6 +554,7 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/
 ## Binary
 
 1. Bit Hacks — Part 1 (Basic) <http://www.techiedelight.com/bit-hacks-part-1-basic/> - `binary1`
+1. Bit Hacks — Part 2 (Playing with k’th bit) <http://www.techiedelight.com/bit-hacks-part-2-playing-kth-bit/> - `binary2`
 
 ## Matrix
 
