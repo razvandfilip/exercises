@@ -526,13 +526,11 @@ Find numbers represented as sum of two cubes for two different pairs http://www.
 Print “Hello World” with empty main() function | 3 methods http://www.techiedelight.com/print-hello-world-empty-main-function/
 Tower of Hanoi Problem http://www.techiedelight.com/tower-of-hanoi-problem/
 Print all numbers between 1 to N without using any loop | 4 methods http://www.techiedelight.com/print-numbers-1-n-without-using-loop-4-methods/
-Print a semicolon without using semicolon anywhere in the program http://www.techiedelight.com/print-a-semicolon-without-using-semicolon-anywhere-program/
 Multiply two numbers without using multiplication operator or loops http://www.techiedelight.com/multiply-two-numbers-without-using-multiplication-operator-loops/
 Find square of a number without using multiplication and division operator | 3 methods http://www.techiedelight.com/find-square-number-without-using-multiplication-division-operator/
 Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/
 
 # In Progress
-
 
 
 # Done
@@ -564,6 +562,7 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/
 ## Puzzles
 
 1. Clock angle problem — Find angle between hour and minute hand <http://www.techiedelight.com/angle-between-hour-minute-hand/> - `clock-angle`
+1. Print a semicolon without using semicolon anywhere in the program <http://www.techiedelight.com/print-a-semicolon-without-using-semicolon-anywhere-program/> - `no-semicolon`
 
 ## Sorting
 
