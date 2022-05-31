@@ -179,7 +179,6 @@ Find optimal cost to construct binary search tree http://www.techiedelight.com/f
 
 ## Divide & Conquer
 
-Ternary Search vs Binary search http://www.techiedelight.com/ternary-search-vs-binary-search/
 Exponential search http://www.techiedelight.com/exponential-search/
 Interpolation search http://www.techiedelight.com/interpolation-search/
 Find number of rotations in a circularly sorted array http://www.techiedelight.com/find-number-rotations-circularly-sorted-array/
@@ -535,6 +534,7 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/
 # In Progress
 
 
+
 # Done
 
 ## Arrays
@@ -576,3 +576,4 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/
 ## Divide & Conquer
 
 1. Binary Search <http://www.techiedelight.com/binary-search/> - `binary-search`
+1. Ternary Search vs Binary search <http://www.techiedelight.com/ternary-search-vs-binary-search/> - `ternary-search`

@@ -1,6 +1,5 @@
 package com.razvan;
 
-import java.util.Arrays;
 import java.util.Map;
 import java.util.HashMap;
 
@@ -24,37 +23,37 @@ public class App {
         return thirdSolution();
     }
 
-    private Pair firstSolution() {
-        for (int i = 0; i < array.length - 1; i++) {
-            for (int j = i + 1; j < array.length; j++) {
-                if ((array[i] + array[j]) == sum) {
-                    return new Pair(array[i], array[j]);
-                }
-            }
-        }
-        return null;
-    }
+    // private Pair firstSolution() {
+    //     for (int i = 0; i < array.length - 1; i++) {
+    //         for (int j = i + 1; j < array.length; j++) {
+    //             if ((array[i] + array[j]) == sum) {
+    //                 return new Pair(array[i], array[j]);
+    //             }
+    //         }
+    //     }
+    //     return null;
+    // }
 
-    private Pair secondSolution() {
-        Arrays.sort(this.array);
+    // private Pair secondSolution() {
+    //     Arrays.sort(this.array);
 
-        int low = 0;
-        int high = array.length - 1;
+    //     int low = 0;
+    //     int high = array.length - 1;
 
-        while (low < high) {
-            if ((array[low] + array[high]) == this.sum) {
-                return new Pair(array[low], array[high]);
-            }
+    //     while (low < high) {
+    //         if ((array[low] + array[high]) == this.sum) {
+    //             return new Pair(array[low], array[high]);
+    //         }
 
-            if ((array[low] + array[high]) < this.sum) {
-                low++;
-            } else {
-                high--;
-            }
-        }
+    //         if ((array[low] + array[high]) < this.sum) {
+    //             low++;
+    //         } else {
+    //             high--;
+    //         }
+    //     }
 
-        return null;
-    }
+    //     return null;
+    // }
 
     private Pair thirdSolution() {
         Map<Integer, Integer> map = new HashMap<>();
