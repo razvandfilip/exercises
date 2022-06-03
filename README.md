@@ -507,7 +507,6 @@ Find Duplicate rows in a binary matrix http://www.techiedelight.com/find-duplica
 
 ## Greedy
 
-Activity Selection Problem http://www.techiedelight.com/activity-selection-problem/
 Huffman Coding http://www.techiedelight.com/huffman-coding/
 Shortest Superstring Problem http://www.techiedelight.com/shortest-superstring-problem/
 Job Sequencing Problem with Deadlines http://www.techiedelight.com/job-sequencing-problem-deadlines/
@@ -576,3 +575,7 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/
 
 1. Binary Search <http://www.techiedelight.com/binary-search/> - `binary-search`
 1. Ternary Search vs Binary search <http://www.techiedelight.com/ternary-search-vs-binary-search/> - `ternary-search`
+
+## Greedy
+
+1. Activity Selection Problem <http://www.techiedelight.com/activity-selection-problem/> - `activity-selection`
