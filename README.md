@@ -1,4 +1,8 @@
-## Array
+# Exercises
+
+## To do
+
+### Array
 
 Find sub-array with 0 sum http://www.techiedelight.com/find-sub-array-with-0-sum/
 Sort binary array in linear time http://www.techiedelight.com/sort-binary-array-linear-time/
@@ -14,7 +18,6 @@ Shuffle a given array of elements (Fisher–Yates shuffle) http://www.techiedeli
 Rearrange the array with alternate high and low elements http://www.techiedelight.com/rearrange-the-array-with-alternate-high-and-low-elements/
 Find equilibrium index of an array http://www.techiedelight.com/find-equilibrium-index-array/
 Find majority element in an array (Boyer–Moore majority vote algorithm) http://www.techiedelight.com/find-majority-element-in-an-array-boyer-moore-majority-vote-algorithm/
-Move all zeros present in the array to the end http://www.techiedelight.com/move-zeros-present-array-end/
 Replace each element of array with product of every other element without using / operator http://www.techiedelight.com/replace-element-array-product-every-element-without-using-division-operator/
 Find Longest Bitonic Subarray in an array http://www.techiedelight.com/find-longest-bitonic-subarray-array/
 Find maximum difference between two elements in the array by satisfying given constraints http://www.techiedelight.com/find-maximum-difference-between-two-elements-array/
@@ -85,7 +88,7 @@ Combinations of words formed by replacing given numbers with corresponding Engli
 Decode the given sequence to construct minimum number without repeated digits http://www.techiedelight.com/decode-the-given-sequence-construct-minimum-number-without-repeated-digits/
 All combinations of elements satisfiying given constraints http://www.techiedelight.com/find-combinations-of-elements-satisfies-given-constraints/
 
-## Backtracking
+### Backtracking
 
 Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/
 Find Shortest Path in Maze http://www.techiedelight.com/find-shortest-path-in-maze/
@@ -98,7 +101,7 @@ Find all Permutations of a given string http://www.techiedelight.com/find-permut
 All combinations of elements satisfiying given constraints http://www.techiedelight.com/find-combinations-of-elements-satisfies-given-constraints/
 Find all binary strings that can be formed from given wildcard pattern http://www.techiedelight.com/find-binary-strings-can-formed-given-wildcard-pattern/
 
-## Binary
+### Binary
 
 Bit Hacks — Part 3 (Playing with rightmost set bit of a number) http://www.techiedelight.com/bit-hacks-part-3-playing-rightmost-set-bit-number/
 Bit Hacks — Part 4 (Playing with letters of English alphabet) http://www.techiedelight.com/bit-hacks-part-4-playing-letters-english-alphabet/
@@ -118,7 +121,7 @@ Efficiently implement power function | Recursive and Iterative http://www.techie
 Find square of a number without using multiplication and division operator | 3 methods http://www.techiedelight.com/find-square-number-without-using-multiplication-division-operator/
 Generate power set of a given set http://www.techiedelight.com/generate-power-set-given-set/
 
-## Binary Tree
+### Binary Tree
 
 Huffman Coding http://www.techiedelight.com/huffman-coding/
 Check if two given binary trees are identical or not | Iterative & Recursive http://www.techiedelight.com/check-if-two-binary-trees-are-identical-not-iterative-recursive/
@@ -163,7 +166,7 @@ Find maximum sum root-to-leaf path in a binary tree http://www.techiedelight.com
 Check if given binary tree is height balanced or not http://www.techiedelight.com/check-given-binary-tree-is-height-balanced-not/
 Determine if given Binary Tree is a BST or not http://www.techiedelight.com/determine-given-binary-tree-is-a-bst-or-not/
 
-## Binary Search Tree
+### Binary Search Tree
 
 Insertion in BST http://www.techiedelight.com/insertion-in-bst/
 Search given key in BST http://www.techiedelight.com/search-given-key-in-bst/
@@ -177,7 +180,7 @@ Find K’th smallest and K’th largest element in BST http://www.techiedelight.
 Floor and Ceil in a Binary Search Tree http://www.techiedelight.com/floor-ceil-bst-iterative-recursive/
 Find optimal cost to construct binary search tree http://www.techiedelight.com/find-optimal-cost-to-construct-binary-search-tree/
 
-## Divide & Conquer
+### Divide & Conquer
 
 Exponential search http://www.techiedelight.com/exponential-search/
 Interpolation search http://www.techiedelight.com/interpolation-search/
@@ -200,7 +203,7 @@ Quicksort http://www.techiedelight.com/quicksort/
 Iterative Implementation of Quicksort http://www.techiedelight.com/iterative-implementation-of-quicksort/
 Hybrid QuickSort http://www.techiedelight.com/hybrid-quicksort/
 
-## Dynamic Programming
+### Dynamic Programming
 
 Introduction to Dynamic Programming http://www.techiedelight.com/introduction-dynamic-programming/
 Longest Common Subsequence | Introduction & LCS Length http://www.techiedelight.com/longest-common-subsequence/
@@ -248,7 +251,7 @@ Maximum subarray problem (Kadane’s algorithm) http://www.techiedelight.com/max
 Single-Source Shortest Paths — Bellman Ford Algorithm http://www.techiedelight.com/single-source-shortest-paths-bellman-ford-algorithm/
 All-Pairs Shortest Paths — Floyd Warshall Algorithm http://www.techiedelight.com/pairs-shortest-paths-floyd-warshall-algorithm/
 
-## Graphs
+### Graphs
 
 Terminology and Representations of Graphs http://www.techiedelight.com/terminology-and-representations-of-graphs/
 Graph Implementation using STL http://www.techiedelight.com/graph-implementation-using-stl/
@@ -280,7 +283,7 @@ Print all k-colorable configurations of the graph (Vertex coloring of graph) htt
 Print All Hamiltonian Path present in a graph http://www.techiedelight.com/print-all-hamiltonian-path-present-in-a-graph/
 Greedy coloring of graph http://www.techiedelight.com/greedy-coloring-graph/
 
-## Heaps
+### Heaps
 
 Introduction to Priority Queues using Binary Heaps http://www.techiedelight.com/introduction-priority-queues-using-binary-heaps/
 Min Heap and Max Heap Implementation in C++ http://www.techiedelight.com/min-heap-max-heap-implementation-c/
@@ -298,7 +301,7 @@ Huffman Coding http://www.techiedelight.com/huffman-coding/
 Find first k maximum occurring words in given set of strings http://www.techiedelight.com/find-first-k-maximum-occurring-words-given-set-strings/
 Find first k non-repeating characters in a string in single traversal http://www.techiedelight.com/first-k-non-repeating-characters-string/
 
-## Linked List
+### Linked List
 
 Introduction to Linked Lists http://www.techiedelight.com/introduction-linked-lists/
 Linked List Implementation | Part 1 http://www.techiedelight.com/linked-list-implementation-part-1/
@@ -331,7 +334,7 @@ Move last node to front in a given Linked List http://www.techiedelight.com/move
 Rearrange the linked list in specific manner http://www.techiedelight.com/rearrange-the-linked-list-specific-manner/
 Detect Cycle in a linked list (Floyd’s Cycle Detection Algorithm) http://www.techiedelight.com/detect-cycle-linked-list-floyds-cycle-detection-algorithm/
 
-## Matrix
+### Matrix
 
 Shift all matrix elements by 1 in Spiral Order http://www.techiedelight.com/shift-matrix-elements-1-spiral-order/
 Find Shortest path from source to destination in a matrix that satisfies given constraints http://www.techiedelight.com/find-shortest-path-source-destination-matrix-satisfies-given-constraints/
@@ -359,7 +362,7 @@ Find the minimum cost to reach last cell of the matrix from its first cell http:
 Matrix Chain Multiplication http://www.techiedelight.com/matrix-chain-multiplication/
 Find size of largest square sub-matrix of 1’s present in given binary matrix http://www.techiedelight.com/find-size-largest-square-sub-matrix-1s-present-given-binary-matrix/
 
-## Queue
+### Queue
 
 Chess Knight Problem — Find Shortest path from source to destination http://www.techiedelight.com/chess-knight-problem-find-shortest-path-source-destination/
 Find Duplicate rows in a binary matrix http://www.techiedelight.com/find-duplicate-rows-binary-matrix/
@@ -389,7 +392,7 @@ Breadth First Search (BFS) | Iterative & Recursive Implementation http://www.tec
 Minimum number of throws required to win Snake and Ladder game http://www.techiedelight.com/min-throws-required-to-win-snake-and-ladder-game/
 Check if an undirected graph contains cycle or not http://www.techiedelight.com/check-undirected-graph-contains-cycle-not/
 
-## Sorting
+### Sorting
 
 Insertion sort | Iterative & Recursive http://www.techiedelight.com/insertion-sort-iterative-recursive/
 Selection sort | Iterative & Recursive http://www.techiedelight.com/selection-sort-iterative-recursive/
@@ -426,7 +429,7 @@ Find all distinct combinations of given length http://www.techiedelight.com/find
 Find all distinct combinations of given length with repetition allowed http://www.techiedelight.com/find-distinct-combinations-given-length-repetition-allowed/
 Merging Overlapping Intervals http://www.techiedelight.com/merging-overlapping-intervals
 
-## Stack
+### Stack
 
 Check if given expression is balanced expression or not http://www.techiedelight.com/check-given-expression-balanced-expression-not/
 Find duplicate parenthesis in an expression http://www.techiedelight.com/find-duplicate-parenthesis-expression/
@@ -442,7 +445,7 @@ Find all binary strings that can be formed from given wildcard pattern http://ww
 Iterative Implementation of Quicksort http://www.techiedelight.com/iterative-implementation-of-quicksort/
 Depth First Search (DFS) | Iterative & Recursive Implementation http://www.techiedelight.com/depth-first-search/
 
-## String
+### String
 
 Check if given string is a rotated palindrome or not http://www.techiedelight.com/check-given-string-rotated-palindrome-not/
 Longest Palindromic Substring (Non-DP Space Optimized Solution) http://www.techiedelight.com/longest-palindromic-substring-non-dp-space-optimized-solution/
@@ -495,7 +498,7 @@ Shortest Common Supersequence | Introduction & SCS Length http://www.techiedelig
 Shortest Common Supersequence | Finding all SCS http://www.techiedelight.com/shortest-common-supersequence-finding-scs/
 Shortest Common Supersequence | Using LCS http://www.techiedelight.com/shortest-common-supersequence-using-lcs/
 
-## Trie
+### Trie
 
 Trie Implementation | Insert, Search and Delete http://www.techiedelight.com/trie-implementation-insert-search-delete/
 Memory efficient Trie Implementation using Map | Insert, Search and Delete http://www.techiedelight.com/memory-efficient-trie-implementation-using-map-insert-search-delete/
@@ -505,14 +508,14 @@ Find maximum occurring word in given set of strings http://www.techiedelight.com
 Find first k maximum occurring words in given set of strings http://www.techiedelight.com/find-first-k-maximum-occurring-words-given-set-strings/
 Find Duplicate rows in a binary matrix http://www.techiedelight.com/find-duplicate-rows-binary-matrix/
 
-## Greedy
+### Greedy
 
 Huffman Coding http://www.techiedelight.com/huffman-coding/
 Shortest Superstring Problem http://www.techiedelight.com/shortest-superstring-problem/
 Job Sequencing Problem with Deadlines http://www.techiedelight.com/job-sequencing-problem-deadlines/
 Greedy coloring of graph http://www.techiedelight.com/greedy-coloring-graph/
 
-## Puzzles
+### Puzzles
 
 Add two numbers without using addition operator | 5 methods http://www.techiedelight.com/add-two-numbers-without-using-addition-operator/
 Generate power set of a given set http://www.techiedelight.com/generate-power-set-given-set/
@@ -529,12 +532,11 @@ Multiply two numbers without using multiplication operator or loops http://www.t
 Find square of a number without using multiplication and division operator | 3 methods http://www.techiedelight.com/find-square-number-without-using-multiplication-division-operator/
 Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/
 
-# In Progress
+## In Progress
 
+## Done
 
-# Done
-
-## Arrays
+### Arrays
 
 1. Count occurrences of a number in a sorted array with duplicates <http://www.techiedelight.com/count-occurrences-number-sorted-array-duplicates/> - `sorted-duplicates`
 1. Find pair with given sum in the array <http://www.techiedelight.com/find-pair-with-given-sum-array/> - `pair-sum-array`
@@ -542,40 +544,41 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/
 1. Sort an array containing 0’s, 1’s and 2’s(Dutch national flag problem) <http://www.techiedelight.com/sort-array-containing-0s-1s-2s-dutch-national-flag-problem/> - `dutch-flag`
 1. Bubble sort | Iterative & Recursive <http://www.techiedelight.com/bubble-sort-iterative-recursive/> - `bubble-sort`
 1. Find maximum sum path involving elements of given arrays <http://www.techiedelight.com/find-maximum-sum-path-involving-elements-given-arrays/> - `max-path-sum-arrays`
+1. Move all zeros present in the array to the end <http://www.techiedelight.com/move-zeros-present-array-end/> - `move-zero-start`
 
-## Backtracking
+### Backtracking
 
 1. Print all possible solutions to N Queens problem <http://www.techiedelight.com/print-possible-solutions-n-queens-problem/> - `queen-problem`
 1. Print all Possible Knight’s Tours in a chessboard <http://www.techiedelight.com/print-possible-knights-tours-chessboard/> - `knight-tours`
 
-## Binary
+### Binary
 
 1. Bit Hacks — Part 1 (Basic) <http://www.techiedelight.com/bit-hacks-part-1-basic/> - `binary1`
 1. Bit Hacks — Part 2 (Playing with k’th bit) <http://www.techiedelight.com/bit-hacks-part-2-playing-kth-bit/> - `binary2`
 
-## Matrix
+### Matrix
 
 1. Print Matrix in Spiral Order <http://www.techiedelight.com/print-matrix-spiral-order/> - `print-spiral-matrix`
 1. Create Spiral Matrix from given array <http://www.techiedelight.com/create-spiral-matrix-given-array/> - `create-spiral-matrix`
 
-## Puzzles
+### Puzzles
 
 1. Clock angle problem — Find angle between hour and minute hand <http://www.techiedelight.com/angle-between-hour-minute-hand/> - `clock-angle`
 1. Print a semicolon without using semicolon anywhere in the program <http://www.techiedelight.com/print-a-semicolon-without-using-semicolon-anywhere-program/> - `no-semicolon`
 
-## Sorting
+### Sorting
 
 1. Selection sort | Iterative & Recursive <http://www.techiedelight.com/selection-sort-iterative-recursive/> - `select-sort`
 
-## String
+### String
 
 1. Check if given set of moves is circular or not <http://www.techiedelight.com/check-given-set-moves-circular-not/> - `circular-moveset`
 
-## Divide & Conquer
+### Divide & Conquer
 
 1. Binary Search <http://www.techiedelight.com/binary-search/> - `binary-search`
 1. Ternary Search vs Binary search <http://www.techiedelight.com/ternary-search-vs-binary-search/> - `ternary-search`
 
-## Greedy
+### Greedy
 
 1. Activity Selection Problem <http://www.techiedelight.com/activity-selection-problem/> - `activity-selection`
