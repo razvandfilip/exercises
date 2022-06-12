@@ -1,5 +1,7 @@
 # Exercises
 
+Original list of 500 exercises - <https://kingrayhan.medium.com/500-data-structures-and-algorithms-practice-problems-and-their-solutions-b45a83d803f0>
+
 ## To do
 
 ### Array
@@ -205,7 +207,6 @@ Hybrid QuickSort http://www.techiedelight.com/hybrid-quicksort/
 
 ### Dynamic Programming
 
-Introduction to Dynamic Programming http://www.techiedelight.com/introduction-dynamic-programming/
 Longest Common Subsequence | Introduction & LCS Length http://www.techiedelight.com/longest-common-subsequence/
 Longest Common Subsequence | Space optimized version http://www.techiedelight.com/longest-common-subsequence-lcs-space-optimized-version/
 Longest Common Subsequence of K-sequences http://www.techiedelight.com/longest-common-subsequence-of-k-sequences/
@@ -582,3 +583,7 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/
 ### Greedy
 
 1. Activity Selection Problem <http://www.techiedelight.com/activity-selection-problem/> - `activity-selection`
+
+### Dynamic Programming
+
+1. Introduction to Dynamic Programming <http://www.techiedelight.com/introduction-dynamic-programming/> - `lookup-fibo`
