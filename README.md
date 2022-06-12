@@ -1,5 +1,6 @@
 # Exercises
 
+![Workflow Status](https://github.com/razvandfilip/exercises/.github/workdflows/test-maven.yml/badge.svg)
 Original list of 500 exercises - <https://kingrayhan.medium.com/500-data-structures-and-algorithms-practice-problems-and-their-solutions-b45a83d803f0>
 
 ## To do
