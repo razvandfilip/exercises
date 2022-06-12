@@ -55,6 +55,8 @@
 
     <module>move-zero-start</module>
 
+    <module>lookup-fibo</module>
+
   </modules>
 
 </project>
